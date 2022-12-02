@@ -1,12 +1,7 @@
 
  <h1 align="center">Hi there, I am Loreto 💖</h1> 
   
- <h2 align="center">A passionate developer from Barbastro, Spain</h2> 
-  
- <p align="left" size="20px"> 
- I'm 21 years old.A student of Computer Engineering at the University of Zaragoza. 
- My name is pronounced like "Ee-ker" and it's a Basque name, so it's not very common in Spain. 
- </p> 
+ <p align="center" size="20px">I am a computer science student in the University of Zaragoza</p> 
   
  ### *Tech🖥️*  
   
