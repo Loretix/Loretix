@@ -1,7 +1,18 @@
 
  <h1 align="center">Hi there, I am Loreto 💖</h1> 
   
- <p align="center">My name is Loreto Matinero Angusto and I am a computer science student in the University of Zaragoza</p> 
+ <p align="center">My name is Loreto Matinero Angusto and I am a Computer Science Engineering student at the University of Zaragoza</p> 
+
+<h3 aling="left"> ✨Social networks✨</h3>
+<p> If you want to contact me you can do it through these social networks</p> 
+<div align="center"  class="icons-social" style="margin-left: 10px;">
+         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/loreto-matinero-angusto-389742219/">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="Linkedin" width="50" height="50"> </a>
+        <a style="margin-left: 10px;"  target="_blank" href="https://twitter.com/loretomatinero">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt="Twitter" width="50" height="40"></a>
+        <a style="margin-left: 10px;"  target="_blank" href="https://instagram.com/loretomatinero">
+            <img src="https://i0.wp.com/eltallerdehector.com/wp-content/uploads/2022/06/cd939-logo-instagram-png.png?fit=512%2C512&ssl=1" alt="Instagram" width="40" height="40"> </a>
+</div>
 
 <h3 aling="left"> 🛠️Lenguages and Tools🛠️ </h3>
 <p> These are some lenguages and tools that I've learned during my years of study and personal work</p> 
