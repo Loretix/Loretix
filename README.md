@@ -1,6 +1,8 @@
 
  <h1 align="center">Hi there, I am Loreto 💖</h1> 
  
+ <!-- <img src="https://images.cooltext.com/5632083.gif" width="379" height="119" alt="welcome" /> -->
+ 
  <h3 aling="left"> ✨About me✨</h3>
  <p>My name is Loreto Matinero Angusto and I am a Computer Science Engineering student at the University of Zaragoza, if you want to contact me you can do it through these social networks: </p> 
  
