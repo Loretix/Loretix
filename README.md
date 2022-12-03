@@ -1,10 +1,9 @@
 
  <h1 align="center">Hi there, I am Loreto 💖</h1> 
-  
- <p align="center">My name is Loreto Matinero Angusto and I am a Computer Science Engineering student at the University of Zaragoza</p> 
-
-<h3 aling="left"> ✨Social networks✨</h3>
-<p> If you want to contact me you can do it through these social networks</p> 
+ 
+ <h3 aling="left"> ✨About me✨</h3>
+ <p>My name is Loreto Matinero Angusto and I am a Computer Science Engineering student at the University of Zaragoza, if you want to contact me you can do it through these social networks: </p> 
+ 
 <div align="center"  class="icons-social" style="margin-left: 10px;">
          <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/loreto-matinero-angusto-389742219/">
             <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="Linkedin" width="50" height="50"> </a>
