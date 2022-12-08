@@ -1,7 +1,8 @@
 <!--<div align="center"  class="icons-social" style="margin-left: 10px;">
 <img src="https://github.com/Loretix/Loretix/blob/main/WhatsApp_Image_2021-02-27_at_17.03.37.png-removebg-preview.png" width="100" height="100" alt="welcome" />
  </div> -->
- <h1 align="center">Hi there, I am Loreto  </h1> <img src="https://github.com/Loretix/Loretix/blob/main/WhatsApp_Image_2021-02-27_at_17.03.37.png-removebg-preview.png" width="100" height="100" alt="welcome" />
+ <h1 align="center">Hi there, I am Loreto 💖 </h1> 
+ 
  
  <h3 aling="left"> ✨About me✨</h3>
  <p>My name is Loreto Matinero Angusto and I am a Computer Science Engineering student at the University of Zaragoza, if you want to contact me you can do it through these social networks: </p> 
